@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Ir a hacer ejercicios"
+    },
+    {
+      "id": 2,
+      "title": "Estudiar matematicas"
+    },
+    {
+      "id": 3,
+      "title": "Hacer la cena"
+    },
+    {
+      "id": 4,
+      "title": "Estudiar vuejs"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
